@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghn5auw5nrj304203u0sl.jpg)
 
 - 🔭 I’m currently learning React

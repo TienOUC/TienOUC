@@ -2,4 +2,4 @@
 
 - 🧑🏻‍💻 I’m currently learning React
 - 📚 I’m looking for improving communication and public speaking skills
-- 📩 How to reach me:  TienOUC(wechat),  [Bilibili](https://space.bilibili.com/23336564)
+- 📩 How to reach me:  TienOUC(wechat)

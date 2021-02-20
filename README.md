@@ -5,7 +5,7 @@
 ### Hi, there! I'm Tien  👏🏻   
 - 🧑🏻‍💻  I’m currently learning React.   
 - 📚  I’m looking for improving communication and public speaking skills.   
-- 📩  My personal [blog site](https://www.dodolo.top/vuepress/).   
+- 🌏  My personal [blog site](https://www.dodolo.top/vuepress/).   
 
 ---
 

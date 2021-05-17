@@ -7,7 +7,7 @@
 - 📚  I’m looking for improving communication and public speaking skills.   
 - 🌏  My personal blog site [domestic](https://www.dodolo.top) / [oversea](https://tienouc.github.io/vuepress/).   
 
-![](https://visitor-badge.glitch.me/badge?page_id=shanyuhai123)
+![](https://visitor-badge.glitch.me/badge?page_id=tienouc)
 ---
 
 <details open>

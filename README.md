@@ -5,8 +5,8 @@
 ### Hi, there! I'm Tien  👏🏻   
 - 🧑🏻‍💻  I’m currently learning Vue.   
 - 📚  I’m looking for improving communication and public speaking skills.   
-- 🌏  My personal blog site [domestic](https://www.dodolo.top) / [oversea](https://tienouc.github.io/vuepress/).   
-
+- 🌏  My personal blog site [https://www.dodolo.top](https://www.dodolo.top)
+   
 ![](https://visitor-badge.glitch.me/badge?page_id=tienouc)
 ---
 

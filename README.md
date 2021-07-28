@@ -4,7 +4,7 @@
 
 ### Hi, there! I'm Tien  👏🏻   
 - 🧑🏻‍💻  I’m currently learning React.   
-- 📚  I’m looking for improving communication and public speaking skills.   
+<!-- - 📚  I’m looking for improving communication and public speaking skills.    -->
 - 🌏  My personal blog site [https://www.dodolo.top](https://www.dodolo.top)
    
 ![](https://visitor-badge.glitch.me/badge?page_id=tienouc)
